@@ -1,0 +1,14 @@
+git pull
+%sync remote and local
+
+git status
+%just checking
+
+git add *
+%add all
+
+git commit -m "project1 add pic"
+%comment
+
+git push
+%push dat shi
