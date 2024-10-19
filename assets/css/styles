@@ -1,0 +1,11 @@
+/* styles.css */
+.video-container {
+    width: 100%; /* Set the width of the container to 100% */
+    max-width: 100%; /* Ensure the container doesn't exceed fullscreen width */
+}
+
+.video-container video {
+    width: 100%; /* Make the video stretch to the full width of the container */
+    height: auto; /* Adjust the height to maintain the aspect ratio */
+    display: block; /* Remove any default inline-block spacing */
+}
